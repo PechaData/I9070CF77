@@ -1,0 +1,31 @@
+{
+  "id": "I9070CF77",
+  "title": "༄། །གང་ཟག་རྣམ་པར་གཏན་ལ་འབེབས་པ།",
+  "author": null,
+  "imported": "2024-10-18T14:20:25.698727",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "DharamanexusParser",
+  "initial_creation_type": "json",
+  "language": "bo",
+  "source_metadata": {},
+  "bases": [
+    {
+      "9855": {
+        "source_metadata": {
+          "source_id": "v001",
+          "total_segments": 971,
+          "total_pages": 43
+        },
+        "base_file": "9855",
+        "order": 1
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
